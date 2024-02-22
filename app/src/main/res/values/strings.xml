@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="titulo">Facebook</string>
+
+    <string name="coffe_shop">Coffe Shop</string>
+    <string name="get_started">Get Started</string>
+    <string name="capuchino">Capuchino</string>
+    <string name="americano">Americano</string>
+    <string name="expresso">Expresso</string>
+    <string name="cafe_latte">Cafe Latte</string>
+    <string name="info">loreaksndclksadc aodsicjnoisdnvciosujndfv
+    sodjvnsikjfdvnksujnfdv
+    sokkdjvnksijdvn
+    siokdjuvniksjudfvn
+    </string>
+
+    <string name="price">$20</string>
+    <string name="order_now">Order Now</string>
+    <string name="test">Test</string>
+    <string name="add">+</string>
+    <string name="remove">-</string>
+    <string name="amount">1</string>
+
+
+</resources>
